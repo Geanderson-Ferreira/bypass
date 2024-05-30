@@ -1,6 +1,4 @@
-# My Simple Web Project
-
-Este é um projeto web simples para exibir o nome "Joao" na tela.
+# BYPASS OPERA CHECKIN
 
 ## Instruções
 
