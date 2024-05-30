@@ -1,9 +1,11 @@
-// Função para obter dados
+// Funções que chamam a OHIP Oracle
 function getData() {
     return { nome: 'Dados de origem src/index.js' };
 }
 
-// Configuração do servidor
+
+
+// Server API Interna
 const express = require('express');
 const app = express();
 const port = 3000;

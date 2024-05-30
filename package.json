@@ -1,7 +1,7 @@
 {
     "name": "my-simple-web-project",
     "version": "1.0.0",
-    "description": "Um projeto web simples",
+    "description": "Projeto SImples",
     "main": "src/index.js",
     "scripts": {
       "start": "node src/index.js"

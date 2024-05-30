@@ -1,4 +1,4 @@
-// Script para manipulação da DOM
+// O HTML Será construido com as funções daqui
 document.addEventListener('DOMContentLoaded', async () => {
     try {
         const response = await fetch('/data');
